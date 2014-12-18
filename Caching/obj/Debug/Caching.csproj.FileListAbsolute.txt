@@ -1,0 +1,5 @@
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\Caching\bin\Debug\Caching.dll
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\Caching\bin\Debug\Caching.pdb
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\Caching\obj\Debug\Caching.dll
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\Caching\obj\Debug\Caching.pdb

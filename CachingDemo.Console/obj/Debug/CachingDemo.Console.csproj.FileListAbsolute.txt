@@ -1,0 +1,8 @@
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\CachingDemo.Console\bin\Debug\CachingDemo.Console.exe.config
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\CachingDemo.Console\bin\Debug\CachingDemo.Console.exe
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\CachingDemo.Console\bin\Debug\CachingDemo.Console.pdb
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\CachingDemo.Console\bin\Debug\Caching.dll
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\CachingDemo.Console\bin\Debug\Caching.pdb
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\CachingDemo.Console\obj\Debug\CachingDemo.Console.csprojResolveAssemblyReference.cache
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\CachingDemo.Console\obj\Debug\CachingDemo.Console.exe
+C:\Projects\dotnetlatest\Dotnetlatest.Demos\CachingDemo.Console\obj\Debug\CachingDemo.Console.pdb

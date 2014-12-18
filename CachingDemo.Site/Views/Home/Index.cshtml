@@ -1,0 +1,24 @@
+﻿@using Caching
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        <table>
+            
+                @foreach (Book book in @ViewBag.books)
+                {
+                    <tr>
+                        <td>@book.ISBN.</td>
+                        <td>@book.Name</td>
+                    </tr>
+                }
+                
+        </table>
+
+    </div>
+    
+</div>
